@@ -1,0 +1,241 @@
+Using pre-set license
+Built from '2020.2/release' branch; Version is '2020.2.2f1 (068178b99f32) revision 426360'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 18363.1316; Version 1909; 64bit' Language: 'en' Physical Memory: 32695 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.2.2f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/peyto/OneDrive/Documents/GGJ/GGJ Battleship
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+55815
+Successfully changed project path to: C:/Users/peyto/OneDrive/Documents/GGJ/GGJ Battleship
+C:/Users/peyto/OneDrive/Documents/GGJ/GGJ Battleship
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 29.25 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.2f1 (068178b99f32)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/peyto/OneDrive/Documents/GGJ/GGJ Battleship/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1080 (ID=0x1b80)
+    Vendor:   
+    VRAM:     8079 MB
+    Driver:   26.21.14.4614
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56796
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002136 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 26.68 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.198 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001893 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.27 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.898 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.09 seconds
+Refreshing native plugins compatible for Editor in 0.27 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1129 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.7 MB.
+System memory in use after: 57.8 MB.
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 1569.
+Total: 1.737700 ms (FindLiveObjects: 0.145200 ms CreateObjectMapping: 0.032200 ms MarkObjects: 1.491200 ms  DeleteObjects: 0.067700 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/RoughFist.FBX
+  artifactKey: Guid(fafdcf08d2201424ab6b6277da6882c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RoughFist.FBX using Guid(fafdcf08d2201424ab6b6277da6882c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8fdb289c77a05dc6dc820fd76212e9f5') in 0.429313 seconds
+  Import took 0.431617 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000363 seconds.
+  path: Assets/ShipTextureRed.png
+  artifactKey: Guid(6b49ccf9b4efd9d4a994975c93b7d3da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ShipTextureRed.png using Guid(6b49ccf9b4efd9d4a994975c93b7d3da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e085618a8f546dc5f49784ab5595590') in 0.047234 seconds
+  Import took 0.049196 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000194 seconds.
+  path: Assets/JaggedRock.FBX
+  artifactKey: Guid(20a571e34d80b0e41bd60e6322568431) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JaggedRock.FBX using Guid(20a571e34d80b0e41bd60e6322568431) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dbbcea67a3737879a74294c75b3a4f1b') in 0.024825 seconds
+  Import took 0.026656 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000185 seconds.
+  path: Assets/PosideonBlueTexture.png
+  artifactKey: Guid(1ac5051531a2410469746863020a17f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PosideonBlueTexture.png using Guid(1ac5051531a2410469746863020a17f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc3101e9df96b8705b3a1f90c6a1fd31') in 0.018855 seconds
+  Import took 0.020663 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000185 seconds.
+  path: Assets/JaggedRock3.FBX
+  artifactKey: Guid(7bfa161cc2773b842a31baa5d90813ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JaggedRock3.FBX using Guid(7bfa161cc2773b842a31baa5d90813ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d8cc2a6fd255b68c0e39a32423e0d2a') in 0.025962 seconds
+  Import took 0.028148 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000207 seconds.
+  path: Assets/MDL_Trireme_red.FBX
+  artifactKey: Guid(30e285601dac47f4982fd18521e58d1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MDL_Trireme_red.FBX using Guid(30e285601dac47f4982fd18521e58d1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '529f6fd5448896989ef9cfe706dc3efa') in 0.302602 seconds
+  Import took 0.304871 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000197 seconds.
+  path: Assets/WorldsSmalletSky.FBX
+  artifactKey: Guid(3ddd75d56f7e2bc4dac1c01577d4fbab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WorldsSmalletSky.FBX using Guid(3ddd75d56f7e2bc4dac1c01577d4fbab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f55e298c18a1c6c562c40699cda43e3') in 0.022664 seconds
+  Import took 0.024569 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000199 seconds.
+  path: Assets/BigPlaneForSeas.FBX
+  artifactKey: Guid(c1b0d0495296526439d06faffde18d92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BigPlaneForSeas.FBX using Guid(c1b0d0495296526439d06faffde18d92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a401bdc2ff50ec6fd9cbcb1ec9387fe7') in 0.022500 seconds
+  Import took 0.024411 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000271 seconds.
+  path: Assets/NoArmDone.FBX
+  artifactKey: Guid(534c77461c69a904087978e3060c0d67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NoArmDone.FBX using Guid(534c77461c69a904087978e3060c0d67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '50f46163866ae029cd802f728340ab04') in 0.031781 seconds
+  Import took 0.034072 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000202 seconds.
+  path: Assets/JaggedRock2.FBX
+  artifactKey: Guid(a097ffa66045eae4f850ff2d2de95309) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JaggedRock2.FBX using Guid(a097ffa66045eae4f850ff2d2de95309) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e049cfc2436c388b638bea53efb5c7c7') in 0.021771 seconds
+  Import took 0.023755 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000188 seconds.
+  path: Assets/splish.prefab
+  artifactKey: Guid(6c93fe25e9bdd264595f350ceb7fd21d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/splish.prefab using Guid(6c93fe25e9bdd264595f350ceb7fd21d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1274244e34cfc6ae5f7ad9749cf19f17') in 0.018987 seconds
+  Import took 0.021501 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000226 seconds.
+  path: Assets/circle.psd
+  artifactKey: Guid(6914e35d2b40fc44495413b4eada04c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/circle.psd using Guid(6914e35d2b40fc44495413b4eada04c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f838d63969e75e06b95e93619a444cf0') in 0.018882 seconds
+  Import took 0.021127 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000210 seconds.
+  path: Assets/ShipSailTextureRed.png
+  artifactKey: Guid(b5ab2b8d5d5db7e41b774ea64b6548c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ShipSailTextureRed.png using Guid(b5ab2b8d5d5db7e41b774ea64b6548c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0ab06a1798821ea04bebd28095108fa') in 0.017269 seconds
+  Import took 0.019267 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000290 seconds.
+  path: Assets/PoseidonArm.FBX
+  artifactKey: Guid(1f5a958af18cc50438849b00e745e1c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PoseidonArm.FBX using Guid(1f5a958af18cc50438849b00e745e1c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ed2925fccd7a56e22163e082f29ff20') in 0.034623 seconds
+  Import took 0.037028 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.199994 seconds.
+  path: Assets/BigPlaneForSeas.FBX
+  artifactKey: Guid(c1b0d0495296526439d06faffde18d92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BigPlaneForSeas.FBX using Guid(c1b0d0495296526439d06faffde18d92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a401bdc2ff50ec6fd9cbcb1ec9387fe7') in 0.019299 seconds
+  Import took 0.021641 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001898 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.36 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.880 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.29 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1119 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 60.9 MB.
+System memory in use after: 61.0 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1582.
+Total: 1.857800 ms (FindLiveObjects: 0.151000 ms CreateObjectMapping: 0.028800 ms MarkObjects: 1.653300 ms  DeleteObjects: 0.023000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002093 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.26 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.833 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.25 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1119 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 61.1 MB.
+System memory in use after: 61.2 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1584.
+Total: 1.657900 ms (FindLiveObjects: 0.148700 ms CreateObjectMapping: 0.029600 ms MarkObjects: 1.460400 ms  DeleteObjects: 0.018200 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file

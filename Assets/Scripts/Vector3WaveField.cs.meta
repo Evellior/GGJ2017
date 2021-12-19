@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: d2b8816c3f226e84db3162cbf8bd6eb3
+timeCreated: 1484979426
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - waveMesh: {fileID: 10209, guid: 0000000000000000e000000000000000, type: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

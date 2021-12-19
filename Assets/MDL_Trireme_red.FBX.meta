@@ -1,0 +1,305 @@
+fileFormatVersion: 2
+guid: 30e285601dac47f4982fd18521e58d1b
+timeCreated: 1484996220
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bone_Root
+    100002: Box002
+    100004: MDL_BoatBody
+    100006: MDL_BoatSail
+    100008: MDL_L_BOATOAR1
+    100010: MDL_L_BOATOAR10
+    100012: MDL_L_BOATOAR11
+    100014: MDL_L_BOATOAR12
+    100016: MDL_L_BOATOAR2
+    100018: MDL_L_BOATOAR3
+    100020: MDL_L_BOATOAR4
+    100022: MDL_L_BOATOAR5
+    100024: MDL_L_BOATOAR6
+    100026: MDL_L_BOATOAR7
+    100028: MDL_L_BOATOAR8
+    100030: MDL_L_BOATOAR9
+    100032: MDL_R_BOATOAR1
+    100034: MDL_R_BOATOAR10
+    100036: MDL_R_BOATOAR11
+    100038: MDL_R_BOATOAR12
+    100040: MDL_R_BOATOAR2
+    100042: MDL_R_BOATOAR3
+    100044: MDL_R_BOATOAR4
+    100046: MDL_R_BOATOAR5
+    100048: MDL_R_BOATOAR6
+    100050: MDL_R_BOATOAR7
+    100052: MDL_R_BOATOAR8
+    100054: MDL_R_BOATOAR9
+    100056: //RootNode
+    100058: Object001
+    400000: Bone_Root
+    400002: Box002
+    400004: MDL_BoatBody
+    400006: MDL_BoatSail
+    400008: MDL_L_BOATOAR1
+    400010: MDL_L_BOATOAR10
+    400012: MDL_L_BOATOAR11
+    400014: MDL_L_BOATOAR12
+    400016: MDL_L_BOATOAR2
+    400018: MDL_L_BOATOAR3
+    400020: MDL_L_BOATOAR4
+    400022: MDL_L_BOATOAR5
+    400024: MDL_L_BOATOAR6
+    400026: MDL_L_BOATOAR7
+    400028: MDL_L_BOATOAR8
+    400030: MDL_L_BOATOAR9
+    400032: MDL_R_BOATOAR1
+    400034: MDL_R_BOATOAR10
+    400036: MDL_R_BOATOAR11
+    400038: MDL_R_BOATOAR12
+    400040: MDL_R_BOATOAR2
+    400042: MDL_R_BOATOAR3
+    400044: MDL_R_BOATOAR4
+    400046: MDL_R_BOATOAR5
+    400048: MDL_R_BOATOAR6
+    400050: MDL_R_BOATOAR7
+    400052: MDL_R_BOATOAR8
+    400054: MDL_R_BOATOAR9
+    400056: //RootNode
+    400058: Object001
+    2300000: MDL_BoatBody
+    2300002: MDL_BoatSail
+    2300004: MDL_L_BOATOAR1
+    2300006: MDL_L_BOATOAR10
+    2300008: MDL_L_BOATOAR11
+    2300010: MDL_L_BOATOAR12
+    2300012: MDL_L_BOATOAR2
+    2300014: MDL_L_BOATOAR3
+    2300016: MDL_L_BOATOAR4
+    2300018: MDL_L_BOATOAR5
+    2300020: MDL_L_BOATOAR6
+    2300022: MDL_L_BOATOAR7
+    2300024: MDL_L_BOATOAR8
+    2300026: MDL_L_BOATOAR9
+    2300028: MDL_R_BOATOAR1
+    2300030: MDL_R_BOATOAR10
+    2300032: MDL_R_BOATOAR11
+    2300034: MDL_R_BOATOAR12
+    2300036: MDL_R_BOATOAR2
+    2300038: MDL_R_BOATOAR3
+    2300040: MDL_R_BOATOAR4
+    2300042: MDL_R_BOATOAR5
+    2300044: MDL_R_BOATOAR6
+    2300046: MDL_R_BOATOAR7
+    2300048: MDL_R_BOATOAR8
+    2300050: MDL_R_BOATOAR9
+    3300000: MDL_BoatBody
+    3300002: MDL_BoatSail
+    3300004: MDL_L_BOATOAR1
+    3300006: MDL_L_BOATOAR10
+    3300008: MDL_L_BOATOAR11
+    3300010: MDL_L_BOATOAR12
+    3300012: MDL_L_BOATOAR2
+    3300014: MDL_L_BOATOAR3
+    3300016: MDL_L_BOATOAR4
+    3300018: MDL_L_BOATOAR5
+    3300020: MDL_L_BOATOAR6
+    3300022: MDL_L_BOATOAR7
+    3300024: MDL_L_BOATOAR8
+    3300026: MDL_L_BOATOAR9
+    3300028: MDL_R_BOATOAR1
+    3300030: MDL_R_BOATOAR10
+    3300032: MDL_R_BOATOAR11
+    3300034: MDL_R_BOATOAR12
+    3300036: MDL_R_BOATOAR2
+    3300038: MDL_R_BOATOAR3
+    3300040: MDL_R_BOATOAR4
+    3300042: MDL_R_BOATOAR5
+    3300044: MDL_R_BOATOAR6
+    3300046: MDL_R_BOATOAR7
+    3300048: MDL_R_BOATOAR8
+    3300050: MDL_R_BOATOAR9
+    4300000: MDL_BoatBody
+    4300002: MDL_BoatSail
+    4300004: Box002
+    4300006: MDL_L_BOATOAR1
+    4300008: MDL_R_BOATOAR1
+    4300010: MDL_R_BOATOAR2
+    4300012: MDL_L_BOATOAR3
+    4300014: MDL_R_BOATOAR3
+    4300016: MDL_L_BOATOAR2
+    4300018: MDL_R_BOATOAR6
+    4300020: MDL_L_BOATOAR5
+    4300022: MDL_R_BOATOAR4
+    4300024: MDL_R_BOATOAR5
+    4300026: MDL_L_BOATOAR4
+    4300028: MDL_L_BOATOAR6
+    4300030: MDL_R_BOATOAR9
+    4300032: MDL_L_BOATOAR8
+    4300034: MDL_R_BOATOAR7
+    4300036: MDL_R_BOATOAR8
+    4300038: MDL_L_BOATOAR7
+    4300040: MDL_L_BOATOAR9
+    4300042: MDL_R_BOATOAR12
+    4300044: MDL_L_BOATOAR11
+    4300046: MDL_R_BOATOAR10
+    4300048: MDL_R_BOATOAR11
+    4300050: MDL_L_BOATOAR10
+    4300052: MDL_L_BOATOAR12
+    7400000: row
+    9500000: //RootNode
+    13700000: Box002
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: row
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 59
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bone_Root
+        weight: 1
+      - path: Box002
+        weight: 1
+      - path: MDL_BoatBody
+        weight: 1
+      - path: MDL_BoatSail
+        weight: 1
+      - path: MDL_L_BOATOAR1
+        weight: 1
+      - path: MDL_L_BOATOAR2
+        weight: 1
+      - path: MDL_L_BOATOAR3
+        weight: 1
+      - path: MDL_L_BOATOAR4
+        weight: 1
+      - path: MDL_L_BOATOAR5
+        weight: 1
+      - path: MDL_L_BOATOAR6
+        weight: 1
+      - path: MDL_L_BOATOAR7
+        weight: 1
+      - path: MDL_L_BOATOAR8
+        weight: 1
+      - path: MDL_L_BOATOAR9
+        weight: 1
+      - path: MDL_L_BOATOAR10
+        weight: 1
+      - path: MDL_L_BOATOAR11
+        weight: 1
+      - path: MDL_L_BOATOAR12
+        weight: 1
+      - path: MDL_R_BOATOAR1
+        weight: 1
+      - path: MDL_R_BOATOAR2
+        weight: 1
+      - path: MDL_R_BOATOAR3
+        weight: 1
+      - path: MDL_R_BOATOAR4
+        weight: 1
+      - path: MDL_R_BOATOAR5
+        weight: 1
+      - path: MDL_R_BOATOAR6
+        weight: 1
+      - path: MDL_R_BOATOAR7
+        weight: 1
+      - path: MDL_R_BOATOAR8
+        weight: 1
+      - path: MDL_R_BOATOAR9
+        weight: 1
+      - path: MDL_R_BOATOAR10
+        weight: 1
+      - path: MDL_R_BOATOAR11
+        weight: 1
+      - path: MDL_R_BOATOAR12
+        weight: 1
+      - path: Object001
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
